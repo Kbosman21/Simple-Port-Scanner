@@ -1,4 +1,5 @@
 #🔎 Simple Python Port Scanner
+
 A lightweight Python tool that scans a target IP address to check if specified ports are open or closed. Great for basic network analysis, learning, or ethical hacking tasks.
 
 🚀 How to Use:
